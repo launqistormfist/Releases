@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Hydroneer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DiscordRichPresence",
+			"Enabled": false
+		},
+		{
+			"Name": "TestPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "Voxel",
+			"Enabled": false
+		}
+	]
+}
