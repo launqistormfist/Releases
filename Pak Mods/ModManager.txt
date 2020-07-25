@@ -13,4 +13,4 @@
 000-NoDirtClumping_P.pak$No Dirt Clumping$Dirt will never clump together while on conveyor belts.
 001-NoDurability_P.pak$No Durability$Infinite durability machines - Also includes changes from BetterHarvester
 002-NoDirtGoliath_P.pak$No Dirt for Goliath$Stops the Goliath drill using up dirt.
-000-Core-Explosives_P.pak$Explosives$Adds several items for explosive fun!
+000-Core-Explosives_P.pak$(Core) Explosives$Adds several items for explosive fun!
