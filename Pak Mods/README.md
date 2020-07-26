@@ -12,7 +12,7 @@
 | [Logic Pipes](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-Core-LogicPipes_P.pak) | Currently adds the 4 and 6 way pipes to the game. More to come. | Sasha, NineOClockNate, Heilos |
 | [F7 Menu](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-Core-F7Menu_P.pak)  | Replaces the escape menu with a brand new menu full of options | Heilos |
 | [Table Saw](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-Core-TableSaw_P.pak)  | A table saw that enables you to cut bars to specific sizes | meaf, Heilos |
-| [Factory Build Pack](https://github.com/kaiheilos/Hydro/raw/master/Pak%20Mods/000-Core-FactoryBuildPack_P.pak)  | A collection of modern factory build items | NineOClockNate |
+| [Factory Build Pack](https://github.com/Team-Hydronix/Releases/blob/master/Pak%20Mods/000-Core-FactoryBuildPack_P.pak)  | A collection of modern factory build items | NineOClockNate |
 
 ## Standalone mods
 
