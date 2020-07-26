@@ -3,7 +3,6 @@ import re
 import struct
 import math
 import os
-import xlsxwriter
 import copy
 import operator
 
