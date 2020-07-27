@@ -1,14 +1,16 @@
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
-000-Core-ConveyorGrinder_P.pak$(Core) Conveyor Grinder$Automatic gem grinder that snaps onto conveyor belts$1.2.0
-000-Core-DeletionFunnel_P.pak$(Core) Deletion Funnel$Just what it says on the tin, this funnel deletes whatever you drop into it.$1.1.0
-000-Core-F7Menu_P.pak$(Core) F7 Menu$Replaces the escape menu with a brand new menu full of options$1.3.7
-000-Core-Explosives_P.pak$(Core) Explosives$Adds several items for explosive fun!$1.0.0
-000-Core-Hydronix_P.pak$(Core) Hydronix$Adds a brand new store to Hydroneer that contains any downloaded Hydronix mods tagged with (Core)$1.1.0
-000-Core-LogicPipes_P.pak$(Core) Logic Pipes$Currently adds the 4 and 6 way pipes to the game. More to come.$1.2.1
-000-Core-TableSaw_P.pak$(Core) Table Saw$A table saw that enables you to cut bars to specific sizes$1.3.0
+
 000-Core-BuildPack_P.pak$(Core) Build Pack$Adds a few extra building items$1.0.0
+000-Core-ConveyorGrinder_P.pak$(Core) Conveyor Grinder$Automatic gem grinder that snaps onto conveyor belts$1.3.0
+000-Core-DeletionFunnel$(Core) Deletion Funnel$Just what it says on the tin, this funnel deletes whatever you drop into it.$1.2.0
+000-Core-Explosives_P.pak$(Core) Explosives$Adds several items for explosive fun!$1.1.0
+000-Core-Extender_P.pak$(Core) Funnel Extender$Makes the funnel longer$1.0.0
+000-Core-F7Menu_P.pak$(Core) F7 Menu$Replaces the escape menu with a brand new menu full of options$1.3.8
 000-Core-FactoryBuildPack_P.pak$(Core) Factory Build Pack$Adds a collection of modern, sleek build items$1.0.1
+000-Core-Hydronix_P.pak$(Core) Hydronix$Adds a brand new store to Hydroneer that contains any downloaded Hydronix mods tagged with (Core)$1.2.0
+000-Core-LogicPipes_P.pak$(Core) Logic Pipes$Currently adds the 4 and 6 way pipes to the game. More to come.$1.3.0
+000-Core-TableSaw_P.pak$(Core) Table Saw$A table saw that enables you to cut bars to specific sizes$1.4.0
 000-DoubleVehicleTorque_P.pak$Double Vehicle Torque$Doubles the torque and reverse speed of the pickup truck$1.0.0
 000-EternalCrystals_P.pak$Eternal Crystals$Makes crystals last forever inside pressure chambers$1.2.0
 000-EverythingFree_P.pak$Everything Free$Makes all buyable items free. The game still requires one coin in each bucket$1.3.0
