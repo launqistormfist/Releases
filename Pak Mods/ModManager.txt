@@ -1,6 +1,6 @@
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
-000-Core-BuildPack_P.pak$(Core) Build Pack$Adds a few extra building items$1.0.0
+000-Core-BuildPack_P.pak$(Core) Build Pack$Adds a few extra building items$1.0.2
 000-Core-ConveyorGrinder_P.pak$(Core) Conveyor Grinder$Automatic gem grinder that snaps onto conveyor belts$1.3.0
 000-Core-DeletionFunnel_P.pak$(Core) Deletion Funnel$Just what it says on the tin, this funnel deletes whatever you drop into it.$1.2.0
 000-Core-Explosives_P.pak$(Core) Explosives$Adds several items for explosive fun!$1.1.0
