@@ -5,10 +5,10 @@
 500-Hydronix-Explosives_P.pak$(Hydronix) Explosives$Adds several items for explosive fun!$1.2.0
 500-Hydronix-F7Menu_P.pak$(Hydronix) F7 Menu$Replaces the escape menu with a brand new menu full of options$1.4.0
 500-Hydronix-FactoryBuildPack_P.pak$(Hydronix) Factory Build Pack$Adds a collection of modern, sleek build items$1.0.3
-500-Hydronix-FunnelExtension_P.pak$(Hydronix) Funnel Extender$Makes the funnel longer$1.0.1
-500-Hydronix-LogicPipes.pak$(Hydronix) Logic Pipes$Currently adds the 4 and 6 way pipes to the game. More to come.$1.4.0
+500-Hydronix-FunnelExtension_P.pak$(Hydronix) Funnel Extension$Makes the funnel longer$1.0.1
+500-Hydronix-LogicPipes.pak$(Hydronix) Logic Pipes$Adds a wide array of new pipes to the game, as well as various logic gates using a new signal system$1.4.0
 500-Hydronix-Sledgehammer_P.pak$(Hydronix) Sledgehammer$Adds a sledgehammer which lets you damage buildables.$1.0.1
-500-Hydronix-Sorter_P.pak$(Hydronix) Gem Splitter$Adds a new conveyor splitter to seperate your gems$1.0.1
+500-Hydronix-Sorter_P.pak$(Hydronix) Gem Splitter$Adds a new conveyor sorter that can sort all resources, including Cloutium ;)$1.0.1
 500-Hydronix-TableSaw.pak$(Hydronix) Table Saw$A table saw that enables you to cut bars to specific sizes$1.5.0
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
