@@ -13,7 +13,7 @@
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
 000-DoubleVehicleTorque_P.pak$Double Vehicle Torque$Doubles the engine power of all the vehicles$2.0.0
-000-EternalCrystals_P.pak$Eternal Crystals$Stops crystals being used by filters or the DAVID$2.0.0
+000-EternalCrystals_P.pak$Eternal Crystals$Stops crystals being used by filters or the DAVID$2.0.0$Unstable
 000-EverythingFree_P.pak$Everything Free$Makes everything cost 0 as long as there's a coin in the bucket$2.0.0
 000-MagnifiedMagnets_P.pak$Magnified Magnets$Triples the power of magnets$2.0.0
 000-NoDirtClumping_P.pak$No Dirt Clumping$Stops dirt from clumping  on conveyor belts$2.0.0
