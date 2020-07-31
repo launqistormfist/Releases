@@ -18,4 +18,4 @@
 000-MagnifiedMagnets_P.pak$Magnified Magnets$Triples the power of magnets$2.0.0
 000-NoDirtClumping_P.pak$No Dirt Clumping$Stops dirt from clumping  on conveyor belts$2.0.0
 001-NoDurability_P.pak$No Durability Loss$Stops machines losing durability$2.0.0
-002-NoDirtGoliath_P.pak$No Dirt Goliath$Stops goliath drills using dirt or losing durability$2.0.0
+002-NoDirtGoliath_P.pak$No Dirt Goliath$Stops goliath drills using dirt or losing durability$2.0.0$Deprecated
