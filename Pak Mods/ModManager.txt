@@ -9,7 +9,7 @@
 500-Hydronix-Inventory_P.pak$(Hydronix) Inventory System$Adds a 10 slot quickbar to the game$1.0.0
 500-Hydronix-LogicPipes.pak$(Hydronix) Logic Pipes$Adds a wide array of new pipes to the game, as well as various logic gates using a new signal system$1.4.0
 500-Hydronix-Sledgehammer_P.pak$(Hydronix) Sledgehammer$Adds a sledgehammer which lets you damage buildables.$1.0.1
-500-Hydronix-Sorter_P.pak$(Hydronix) Hydronix Sorter$Adds a new conveyor sorter that can sort all resources, including Cloutium ;)$1.1.1
+500-Hydronix-Sorter_P.pak$(Hydronix) Hydronix Sorter$Adds a new conveyor sorter that can sort all resources, including Cloutium ;)$1.1.2
 500-Hydronix-TableSaw_P.pak$(Hydronix) Table Saw$A table saw that enables you to cut bars to specific sizes$1.5.1
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
