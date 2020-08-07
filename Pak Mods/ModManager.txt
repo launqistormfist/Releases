@@ -12,6 +12,7 @@
 500-Hydronix-Sorter_P.pak$(Hydronix) Hydronix Sorter$Adds a new conveyor sorter that can sort all resources, including Cloutium ;)$1.2.1
 500-Hydronix-TableSaw_P.pak$(Hydronix) Table Saw$A table saw that enables you to cut bars to specific sizes$1.5.4
 500-Hydronix-TinyItems_P.pak$(Hydronix) Tiny Items$Makes placable items 20% size when not placed$1.0.0
+500-Hydronix-FancyStorePack_P.pak$(Hydronix) Fancy Store Pack$Adds new items to the fancy store$1.0.0
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
 000-DoubleVehicleTorque_P.pak$Double Vehicle Torque$Doubles the engine power of all the vehicles$2.0.0
