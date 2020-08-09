@@ -4,7 +4,7 @@
 500-Hydronix-DeletionFunnel_P.pak$(Hydronix) Deletion Funnel$Just what it says on the tin, this funnel deletes whatever you drop into it.$1.3.0
 500-Hydronix-Explosives_P.pak$(Hydronix) Explosives$Adds several items for explosive fun!$1.2.0
 500-Hydronix-F7Menu_P.pak$(Hydronix) F7 Menu$Replaces the escape menu with a brand new menu full of options$1.4.7
-500-Hydronix-FactoryBuildPack_P.pak$(Hydronix) Factory Build Pack$Adds a collection of modern, sleek build items$1.0.4
+500-Hydronix-FactoryBuildPack_P.pak$(Hydronix) Factory Build Pack$Adds a collection of modern, sleek build items$1.1.0
 500-Hydronix-FunnelExtension_P.pak$(Hydronix) Funnel Extension$Makes the funnel longer$1.0.1
 500-Hydronix-Inventory_P.pak$(Hydronix) Inventory System$Adds a 10 slot quickbar to the game$1.0.4
 500-Hydronix-LogicPipes_P.pak$(Hydronix) Logic Pipes$Adds a wide array of new pipes to the game, as well as various logic gates using a new signal system$1.5.1
@@ -12,6 +12,7 @@
 500-Hydronix-Sorter_P.pak$(Hydronix) Hydronix Sorter$Adds a new conveyor sorter that can sort all resources, including Cloutium ;)$1.2.1
 500-Hydronix-TableSaw_P.pak$(Hydronix) Table Saw$A table saw that enables you to cut bars to specific sizes$1.5.4
 500-Hydronix-TinyItems_P.pak$(Hydronix) Tiny Items$Makes placable items 20% size when not placed$1.0.0
+500-Hydronix-FancyStorePack_P.pak$(Hydronix) Fancy Store Pack$Adds new items to the fancy store$1.0.0
 000-AutumnOverhaul_P.pak$Autumn Overhaul$Textures and colors for an autumn-themed mining experience$1.0.0
 000-BetterHarvester_P.pak$Better Harvester$Improves the harvester so it can harvest any size dirt without clogs$1.1.0
 000-DoubleVehicleTorque_P.pak$Double Vehicle Torque$Doubles the engine power of all the vehicles$2.0.0
